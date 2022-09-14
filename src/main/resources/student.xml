@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<student>
+    <city>Bapatla</city>
+    <department>
+        <departmentId>2</departmentId>
+        <departmentname>ECE</departmentname>
+    </department>
+    <phonenumber>7306040720</phonenumber>
+    <id>1</id>
+    <name>Sai Manoj</name>
+</student>
