@@ -22,7 +22,7 @@ public class JaxbPractice {
 	public static void marshalling() throws JAXBException {
 		
 		Department department = new Department(2, "ECE");
-		Student student = new Student(1, "Sai Manoj", "Bapatla", 7306040720L, department);
+		Student student = new Student(1, "Sai Manoj", "Bapatla", 7000000000L, department);
 		JAXBContext jaxbContext = JAXBContext.newInstance(Student.class);
 		Marshaller marshaller = jaxbContext.createMarshaller();
 		
